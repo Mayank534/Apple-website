@@ -18,6 +18,9 @@ A website for iphone 16 made using tailwindcss, ReactJS, ThreeJS, Vite, GSAP
 git clone https://github.com/Mayank534/Apple-website.git
 ```
 
+
+
+
 **Installation**
 
 Install the project dependencies using npm:
@@ -53,14 +56,12 @@ https://github.com/user-attachments/assets/0ffb08b9-6449-4254-855c-dd9988ebb468
 - Video features
   - All the features are displayed in the format of videos which can be played back and stopped
 
-  ![AltText](/screenshots/8.mp4)
-
-
+https://github.com/user-attachments/assets/93013f6d-dd09-4b58-9df7-6b8661c447c0
 
 - Resizable
   - Responsive UI for mobile / pc viewing
-
-  ![AltText](/screenshots/5.mp4)
+  - 
+https://github.com/user-attachments/assets/dadcd2ba-7b69-4bd5-8dcf-a688e24edebf
 
 - Contact form and Testimonials
   - Option to submit a review which is verified by product ID
@@ -72,7 +73,7 @@ https://github.com/user-attachments/assets/0ffb08b9-6449-4254-855c-dd9988ebb468
 
 ## Demo video
 
-![AltText](/screentshots/6.mp4)
+https://github.com/user-attachments/assets/606dffd0-0f05-4485-b7ef-7ea0e462693b
 
 ### Reference
 Referred [this](https://www.youtube.com/watch?v=kRQbRAJ4-Fs) by JavaScript Mastry for this project 
