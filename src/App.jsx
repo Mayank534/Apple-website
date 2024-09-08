@@ -7,7 +7,7 @@ import HowItWorks from './components/HowItWorks';
 import Footer from './components/Footer';
 import Testimonial from './components/Testimonial';
 import * as Sentry from '@sentry/react';
-
+import Contact from './components/Contact';
 const App = () => {
   return (
     <main className="bg-black">
@@ -18,6 +18,7 @@ const App = () => {
       <Features />
       <HowItWorks />
       <Testimonial />
+      <Contact />
       <Footer />
       
     </main>
