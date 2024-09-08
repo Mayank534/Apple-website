@@ -21,7 +21,7 @@ import { sentryVitePlugin } from '@sentry/vite-plugin';
 // https://vitejs.dev/config/
 export default defineConfig(({ command }) => {
   return {
-    base: command === 'serve' ? '/' : '/apple_website/',  // Use '/' for development, '/apple_ui/' for production
+    base: command === 'serve' ? '/' : '/Apple-website/',  // Use '/' for development, '/apple_ui/' for production
     plugins: [
       react(),
       sentryVitePlugin({
