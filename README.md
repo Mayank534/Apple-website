@@ -45,13 +45,17 @@ npm run dev
 - 3D Model 
   - Option to view different variants of the phone along with option to view the two new sizes of iphone 16
 
-  ![AltText](/screenshots/7.mp4)
+
+
+  ![AltText](https://github.com/user-attachments/assets/0ffb08b9-6449-4254-855c-dd9988ebb468)
 
 
 - Video features
   - All the features are displayed in the format of videos which can be played back and stopped
 
   ![AltText](/screenshots/8.mp4)
+
+
 
 - Resizable
   - Responsive UI for mobile / pc viewing
